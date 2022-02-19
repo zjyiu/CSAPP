@@ -1,0 +1,7 @@
+This is the answer for phase 1——When I get angry, Mr. Biggleworth gets upset.
+This is the answer for phase 2——1 2 4 7 11 16
+This is the answer for phase 3——6 531
+This is the answer for phase 4——7 7
+This is the answer for phase 5——gamfeg
+This is the answer for phase 6——4 6 5 2 1 3
+This is the answer for secret_phase——47
